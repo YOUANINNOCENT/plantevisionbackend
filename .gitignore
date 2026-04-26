@@ -1,0 +1,8 @@
+.env
+.env.*
+.venv/
+uploads/
+*.db
+__pycache__/
+*.pyc
+.ruff_cache/

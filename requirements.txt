@@ -1,0 +1,12 @@
+fastapi>=0.95
+uvicorn[standard]>=0.20
+sqlalchemy>=1.4
+python-multipart>=0.0.6
+# Driver MySQL (Pure Python, pas de compilation native)
+PyMySQL>=1.1.0
+# Requis par PyMySQL pour l'authentification MySQL 8.0 (caching_sha2_password)
+cryptography>=41.0
+requests>=2.28
+# Pour charger automatiquement le fichier .env au démarrage
+python-dotenv>=1.0.0
+# Optional: requests is used by ai_service (already present). No extra packages required.

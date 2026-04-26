@@ -1,0 +1,10 @@
+{
+  "raw": [
+    {
+      "error": "404 Client Error: Not Found for url: https://my-api.plantnet.org/v2/identify/all?api-key=2b10M02Imb8OZFWe7hvK9grqee&lang=fr&include-related-images=True"
+    }
+  ],
+  "formatted": [
+    "Aucun résultat d'identification."
+  ]
+}
